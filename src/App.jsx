@@ -14,17 +14,17 @@ export default function Page() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
-      "Are you sure?",
-      "Really sure?",
-      "Think again!",
-      "Last chance!",
-      "Surely not?",
-      "You might regret this!",
-      "Give it another thought!",
-      "Are you absolutely certain?",
+      "Barsha Are you sure?",
+      "Sontu Really sure?",
+      "Barsha Think again!",
+      "Barsha Last chance!",
+      "Barsha Surely not?",
+      "Barsha,You might regret this!",
+      "Barsha Give it another thought!",
+      "Barsha Are you absolutely certain?",
       "This could be a mistake!",
       "Have a heart!",
-      "Don't be so cold!",
+      "Barsha Don't be so cold!",
       "Change of heart?",
       "Wouldn't you reconsider?",
       "Is that your final answer?",
@@ -89,7 +89,7 @@ const Footer = () => {
   return (
     <a
       className="fixed bottom-2 right-2 backdrop-blur-md opacity-80 hover:opacity-95 border p-1 rounded border-rose-300"
-      href="https://github.com/Xeven777/valentine"
+      href="https://t.me/Mr_Official_300"
       target="__blank"
     >
       Made with{" "}
